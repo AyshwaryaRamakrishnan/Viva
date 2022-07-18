@@ -44,7 +44,7 @@ Run the script and provide the following inputs:
 - Your organization's public website (starting with https://). This will be linked to your company's app name on the app page in the Teams app catalog in "Created By" section.
 - Icons: Default icons are provided in the zip file. When the script runs you can select to use the default icons or [provide your own](/microsoftteams/platform/concepts/build-and-test/apps-package#app-icons).
 
-The script creates a Teams app manifest (.zip) file which you must upload in the Teams admin center.
+The script creates a Teams app manifest (.zip) file in your desktop folder, which you must upload in the Teams admin center.
 
 ## Upload the manifest file
 
